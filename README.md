@@ -1,11 +1,11 @@
 ### Hi there, I'm Babin  👋
 
 ## I'm a Student & Developer!
-- 🔭 I’m currently working on a sharpening my analysis Skills
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to workout and play guitar/ Games
+- 🔭 I’m currently working on a sharpening my analysis Skills.
+- 🌱 I’m currently learning in depth about Security Focused Software Development.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to workout and play guitar/ Games.
 
 
 ### Languages and Tools:
