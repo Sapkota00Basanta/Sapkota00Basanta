@@ -8,7 +8,7 @@ Passionate & motivated developer on his journey to achieve something beyond unex
 
 *   🌍  I'm based in Nepal
 *   ✉️  You can contact me at [sapkota.basanta46@gmail.com](mailto:sapkota.basanta46@gmail.com)
-*   🚀  I'm currently working on [Portfolio-Project](http://portfolio-basanta.heroku.com)
+*   🚀  I'm currently working on Multiple-Projects.
 *   🧠  I'm learning NodeJS | ExpressJS |ReactJs | Web 3.0 | Java | TypeScript | DevOps Tools
 *   ⚡  Lazy is one word perfect for me but don't be misktaken getting things done as near as perfection is another story.
 
