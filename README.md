@@ -6,7 +6,7 @@ Software Engineer & Cyber Security Enthusiast
 
 Passionate & motivated developer on his journey to achieve something beyond unexpected.
 
-* 🌍  I'm based in Nepal
+* 🌍  I love the concept of remote. 
 * ✉️  You can contact me at [sapkota.basanta46@gmail.com](mailto:sapkota.basanta46@gmail.com)
 * 🧠  I'm learning NodeJS | ExpressJS | ReactJS | Typescript | Web 3.0 | Java | GoLang | DevOps Tools
 * ⚡  Lazy is one word perfect for me but don't be deceived by it. Getting things done as near as perfection is another story.
